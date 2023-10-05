@@ -5,7 +5,7 @@ import './App.css'
 
 import TextEditor from './components/TextEditor.jsx'
 
-import { getLatin } from './modules/transcribe.js';
+import { getLatin } from 'latinize-ua';
 
 
 function App() {
