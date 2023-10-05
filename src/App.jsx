@@ -29,7 +29,7 @@ function App() {
       <div className="container">
         <div className="inner">
           <h1 className="h1">
-            Екзистенціальна українська латинка
+            Екзистенційна українська латинка
           </h1>
 
           <div className="block">
